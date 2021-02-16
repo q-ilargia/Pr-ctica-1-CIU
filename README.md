@@ -8,7 +8,7 @@ Inicialmente la aplicación comienza con una breve pantalla que te explica cómo
 
 #Desarrollo
 
-El proceso de desarrollo de esta práctica siguió una serie de pasos diferenciados:
+El proceso de desarrollo de esta práctica siguió una serie de pasos diferenciados:\n
 -Análisis del producto original
 Como el trabajo a realizar es una réplica de un juego ya existente lo primero que realicé fue buscar el original para tener una idea más clara del producto final a realizar, permitiéndome saltarme la fase de bocetado pues el original iba a servir de plantilla.
 -Diseño del apartado gráfico
