@@ -1,7 +1,8 @@
 # Práctica 1 CIU
 
 La práctica presentada a continuación consiste en la realización de una réplica del famoso juego clásico PONG empleando la herramienta Processing 3, presentándose el resultado obtenido a continuación para su posterior desglose.
-Inicialmente la aplicación comienza con una breve pantalla que te explica cómo funciona el juego, una vez pulsada la tecla ENTER como indica comienza el juego, "sirviendo" la figura colocada al lado izquierdo de la pantalla, denominada como P1. 
+Inicialmente la aplicación comienza con una breve pantalla que te explica cómo funciona el juego, una vez pulsada la tecla ENTER como indica comienza el juego, "sirviendo" la figura colocada al lado izquierdo de la pantalla, denominada como P1.
+
                                               ![Ejemplo](https://github.com/q-ilargia/Pr-ctica-1-CIU/blob/main/Gif.gif?raw=true)
 
 #Desarrollo
