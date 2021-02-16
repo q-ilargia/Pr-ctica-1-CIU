@@ -8,35 +8,36 @@ Inicialmente la aplicación comienza con una breve pantalla que te explica cómo
 
 #Desarrollo
 
-El proceso de desarrollo de esta práctica siguió una serie de pasos diferenciados:\n
--Análisis del producto original
-Como el trabajo a realizar es una réplica de un juego ya existente lo primero que realicé fue buscar el original para tener una idea más clara del producto final a realizar, permitiéndome saltarme la fase de bocetado pues el original iba a servir de plantilla.
--Diseño del apartado gráfico
-Una vez tuve claro el apartado gráfico lo diseñé, dejándolo todo completo antes de comenzar con las funcionalidades básicas del juego. Dentro del apartado gráfico una de las decisiones de diseño tomadas fue el emplear una fuente lo más parecida a la original.
--Introducción de las funcionalidades
-Una vez acabado el apartado gráfico el apartado definitivo fue añadir las funcionalidades, comenzando por dotar de movimiento a la pelota del juego, inicialmente fue un movimiento fijo, para posteriormente ser aleatorizado. Lo siguiente en introducir fue el movimiento de las figuras de juego para completar con el añadido de las físicas de rebote.
+El proceso de desarrollo de esta práctica siguió una serie de pasos diferenciados:<br/>
+-Análisis del producto original<br/>
+Como el trabajo a realizar es una réplica de un juego ya existente lo primero que realicé fue buscar el original para tener una idea más clara del producto final a realizar, permitiéndome saltarme la fase de bocetado pues el original iba a servir de plantilla.<br/>
+-Diseño del apartado gráfico<br/>
+Una vez tuve claro el apartado gráfico lo diseñé, dejándolo todo completo antes de comenzar con las funcionalidades básicas del juego. Dentro del apartado gráfico una de las decisiones de diseño tomadas fue el emplear una fuente lo más parecida a la original.<br/>
+-Introducción de las funcionalidades<br/>
+Una vez acabado el apartado gráfico el apartado definitivo fue añadir las funcionalidades, comenzando por dotar de movimiento a la pelota del juego, inicialmente fue un movimiento fijo, para posteriormente ser aleatorizado. Lo siguiente en introducir fue el movimiento de las figuras de juego para completar con el añadido de las físicas de rebote.<br/>
 
 #Ideas desechadas
 
-Hubieron varias ideas desechadas que debido a falta de control sobre la herramienta fueron desechadas, entre ellas se encuentran:
--Final del juego con un ganador.
--Modo de juego contra la máquina con movimiento aleatorio de una de las figuras.
+Hubieron varias ideas desechadas que debido a falta de control sobre la herramienta fueron desechadas, entre ellas se encuentran:<br/>
+-Final del juego con un ganador.<br/>
+-Modo de juego contra la máquina con movimiento aleatorio de una de las figuras.<br/>
 
 #Breve resumen del funcionamiento
 
-La implementación en sí es bastante simple, implementando cada apartado por bloques:
--Un bloque para el apartado visual, donde se implementa el tablero.
--Un bloque para el apartado visual jugable, donde se implementan las figuras de juego y la pelota.
--Un bloque para los desplazamientos, tanto de la pelota como de las figuras de juego.
--Un bloque para la pantalla explicatoria del inicio.
--Un bloque que se encarga de los límites de la pantalla, tanto para llevar a cabo los rebotes en las zonas superior e inferior como para anotar los goles en ambos extremos laterales de la pantalla.
--Un bloque para el rebote de la pelota con las figuras de juego.
--Un bloque que se encarga de la pulsación de las teclas.
+La implementación en sí es bastante simple, implementando cada apartado por bloques:<br/>
+-Un bloque para el apartado visual, donde se implementa el tablero.<br/>
+-Un bloque para el apartado visual jugable, donde se implementan las figuras de juego y la pelota.<br/>
+-Un bloque para los desplazamientos, tanto de la pelota como de las figuras de juego.<br/>
+-Un bloque para la pantalla explicatoria del inicio.<br/>
+-Un bloque que se encarga de los límites de la pantalla, tanto para llevar a cabo los rebotes en las zonas superior e inferior como para anotar los goles en ambos extremos laterales de la pantalla.<br/>
+-Un bloque para el rebote de la pelota con las figuras de juego.<br/>
+-Un bloque que se encarga de la pulsación de las teclas.<br/>
 
 #Recursos
-[Sonido de rebote](https://www.youtube.com/watch?v=vqPOekmXOu0)
-[Sonido de gol](https://www.youtube.com/watch?v=UfumsRKSpeo)
-[Fuente](http://www.mattlag.com/bitfonts/) En concreto bit5x3
-[Gyazo]() Para la realización del gif
-[Ezgif](https://ezgif.com) Para convertir lo obtenido en Gyazo a gif
+
+[Sonido de rebote](https://www.youtube.com/watch?v=vqPOekmXOu0)<br/>
+[Sonido de gol](https://www.youtube.com/watch?v=UfumsRKSpeo)<br/>
+[Fuente](http://www.mattlag.com/bitfonts/) En concreto bit5x3<br/>
+[Gyazo]() Para la realización del gif<br/>
+[Ezgif](https://ezgif.com) Para convertir lo obtenido en Gyazo a gif<br/>
 
